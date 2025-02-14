@@ -20,3 +20,5 @@ date: 2019-11-11T01:31:25+08:00
   改变 GitHub 贡献面板颜色的 Chrome 插件
 
 - [等等](https://github.com/g1eny0ung) -->
+- [soeasyeasy :seedling:](https://github.com/soeasyeasy/soeasyeasy)
+spring-boot 开发脚手架

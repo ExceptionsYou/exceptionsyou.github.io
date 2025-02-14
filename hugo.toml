@@ -55,7 +55,7 @@ motto = "与其感慨路难行，不如马上出发。"
 
 # footerBottomText = ""
 
-rss = true
+rss = false
 
 utterancesRepo = "soeasyeasy/soeasyeasy.github.io"
 
