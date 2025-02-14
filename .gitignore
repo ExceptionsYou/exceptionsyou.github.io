@@ -3,7 +3,7 @@
 
 
 # themes
-themes/*
+# themes/*
 !themes/.gitkeep
 
 # hugo
