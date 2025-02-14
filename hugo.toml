@@ -3,6 +3,7 @@ defaultContentLanguage = "zh"
 languageCode = "zh-Hans"
 title = "huangcheng's Blog"
 theme = "dream"
+publishDir = "docs"
 
 enableGitInfo = true
 enableRobotsTXT = true
