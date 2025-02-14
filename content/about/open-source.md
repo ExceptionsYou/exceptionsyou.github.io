@@ -3,7 +3,7 @@ title: 我的开源项目（My Open Source Projects）
 date: 2019-11-11T01:31:25+08:00
 ---
 
-- [Petal :hibiscus:](https://github.com/ilime/Petal)
+<!-- - [Petal :hibiscus:](https://github.com/ilime/Petal)
 
   [豆瓣 FM](https://douban.fm/) 桌面版
 
@@ -19,4 +19,4 @@ date: 2019-11-11T01:31:25+08:00
 
   改变 GitHub 贡献面板颜色的 Chrome 插件
 
-- [等等](https://github.com/g1eny0ung)
+- [等等](https://github.com/g1eny0ung) -->
