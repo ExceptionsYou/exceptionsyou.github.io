@@ -57,7 +57,7 @@ motto = "与其感慨路难行，不如马上出发。"
 
 rss = true
 
-utterancesRepo = "huangcheng/huangcheng.github.io"
+utterancesRepo = "soeasyeasy/soeasyeasy.github.io"
 
 # valine = true
 # LEANCLOUD_APP_ID = ""
@@ -66,9 +66,9 @@ utterancesRepo = "huangcheng/huangcheng.github.io"
 # waline = true
 # walineServer = ""
 
-email = "g1enyy0ung@gmail.com"
+email = "2387020215@qq.com"
 
-siteStartYear = 2016
+siteStartYear = 2025
 
 favicon = '<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🌱</text></svg>"></link>'
 
@@ -91,7 +91,7 @@ showPrevNextPost = true
 twitter = "huangcheng"
 
 [params.navItems]
-github = { href = "https://github.com/huangcheng", target = "_blank", icon = "logo-github", title = "GitHub" }
+github = { href = "https://github.com/soeasyeasy", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 [params.advanced]
 customCSS = ["css/custom.css"]
