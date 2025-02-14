@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>huangcheng&#39;s Blog</title>
-    <link>https://g1en.site/search/</link>
+    <link>https://soeasyeasy.github.io/search/</link>
     <description>Recent content on huangcheng&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-Hans</language>
-    <atom:link href="https://g1en.site/search/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://soeasyeasy.github.io/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
